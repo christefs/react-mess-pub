@@ -1,0 +1,19 @@
+{
+  "name": "react-mess-pub",
+  "version": "1.0.0",
+  "description": "Random Messages to Publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christian Figueroa <christian-f79@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "react-mess-pub": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
